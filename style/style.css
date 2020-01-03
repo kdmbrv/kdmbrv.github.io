@@ -1,0 +1,15 @@
+
+body {
+    background-color: #404e5c;
+}
+
+.heading {
+    height: 30%;
+}
+
+.headshot {
+    border-radius: 50%;
+    border: 5px solid black;
+    height: 60px;
+    width: 60px;
+}
