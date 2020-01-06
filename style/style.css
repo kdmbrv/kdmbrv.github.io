@@ -9,7 +9,82 @@ body {
 
 .headshot {
     border-radius: 50%;
-    border: 5px solid black;
+    border: 2px solid black;
     height: 60px;
     width: 60px;
 }
+
+.main-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    background-color: #8c8c8c;
+    padding: 1%;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.inner-content {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+
+h5 {
+    margin-bottom: 0;
+}
+
+.location {
+    margin-left: 1rem;
+    margin-bottom: 0rem;
+}
+
+a {
+    color: #212529;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+a:hover {
+    color: #022f5c;
+    text-decoration: none;
+}
+
+/*.resume-link {
+    color: #212529;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.resume-link:hover {
+    color: #022f5c;
+    text-decoration: none;
+}*/
+
+.icons {
+    margin-top: 1%;
+}
+
+/*.icon-link {
+    color: #212529;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.icon-link:link {
+}
+
+.icon-link:visited {
+}
+
+.icon-link:hover {
+    color: #022f5c;
+}
+
+.icon-link:active {
+}*/
